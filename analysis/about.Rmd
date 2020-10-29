@@ -7,4 +7,5 @@ editor_options:
   chunk_output_type: console
 ---
 
-Describe your project.
+This is gonna be journal article preparation.
+这将是一篇文章。
