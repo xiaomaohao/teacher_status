@@ -1,7 +1,7 @@
-name: "teacher_status"
+name: teacher_status
 output_dir: ../docs
 navbar:
-  title: "teacher_status"
+  title: teacher_status
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/xiaomaohao/teacher_status
 output:
   workflowr::wflow_html:
     toc: yes
