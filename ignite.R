@@ -1,8 +1,9 @@
 library(workflowr)
 
-
+#设置
 wflow_git_config(user.name = "xiaomaohao", user.email = "mouse107.5@gmail.com")
 
+#启动
 wflow_start("teacher_status")
 wflow_build() # knit new r-markdown
 
@@ -29,5 +30,8 @@ wflow_publish(c("analysis/index.Rmd","analysis/Overview.Rmd"), "Add my 2020, 10,
 wflow_git_push()
 
 
-##
-wflow_publish(c("analysis/salary10.Rmd","analysis/Overview.Rmd"), "Add my 2021, 06, 01 analysis")
+##教师国标工资文章
+wflow_status()
+wflow_build()  ##由rmarkdown file 生成html
+wflow_publish(c("analysis/salary10.Rmd","analysis/index.Rmd"), "Add my 2021, 06, 01 analysis")
+wflow_git_push()
