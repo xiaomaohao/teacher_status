@@ -12,3 +12,11 @@ Welcome to my research website.
 Click on this [link](outline.html) to see my results.
 <br>
 Data science in Education [first class](Overview.html).
+
+<br>
+
+## POST
+
+<br>
+[中小学教师的国标工资与10%增额](salary10.html)
+
