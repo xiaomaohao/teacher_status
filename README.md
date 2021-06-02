@@ -1,5 +1,5 @@
 # teacher_status
 
-A [workflowr][] project.
+A [workflowr](https://xiaomaohao.github.io/teacher_status/)project.
 
-[workflowr]: https://github.com/jdblischak/workflowr
+[workflowr]: https://xiaomaohao.github.io/teacher_status/
