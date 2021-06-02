@@ -7,5 +7,4 @@ editor_options:
   chunk_output_type: console
 ---
 
-This is gonna be journal article preparation.
-这将是一篇文章。
+这是叶阳永的个人科研网站！
