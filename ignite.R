@@ -44,7 +44,7 @@ library(credentials)
 set_github_pat()   ## 设置pat
 git_credential_ask()
 
-wflow_build()  ##由rmarkdown file 生成html
+wflow_build() ##由rmarkdown file 生成html
 wflow_publish(c("analysis/teacher_recruit.Rmd","analysis/index.Rmd","analysis/teacher_salary.Rmd","analysis/employment_contract.Rmd"),
               "Add my 2021, 06, 01 analysis")
 wflow_git_push()
