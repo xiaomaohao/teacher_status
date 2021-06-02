@@ -25,5 +25,5 @@ editor_options:
 
 ## 开设课程
 
-Data science in Education [first class](Overview.html).
+Data science in Education [first class](https://xiaomaohao.github.io/pptgit/).
 
