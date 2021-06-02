@@ -35,3 +35,12 @@ wflow_status()
 wflow_build()  ##由rmarkdown file 生成html
 wflow_publish(c("analysis/salary10.Rmd","analysis/index.Rmd"), "Add my 2021, 06, 01 analysis")
 wflow_git_push()
+
+
+## credential setting
+
+usethis::create_github_token()
+library(credentials)
+set_github_pat()   ## 设置pat
+git_credential_ask()
+
