@@ -20,3 +20,10 @@ Data science in Education [first class](Overview.html).
 <br>
 [中小学教师的国标工资与10%增额](salary10.html)
 
+
+## 写作计划
+
+* [公立中小学教师工资纠纷争议](teacher_salary.html)
+* [公立中小学教师聘用合同争议](employment_contract.html)
+* [公立中小学教师公开招聘争议](teacher_recruit.html)
+

@@ -1,5 +1,5 @@
 ---
-title: "recruit"
+title: "公立中小学教师分开招聘法律问题研究"
 author: "yy"
 date: "6/2/2021"
 output: html_document
@@ -10,5 +10,16 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## R Markdown
+
+## 引言
+
+## 制度建设与案例纠纷
+
+## 招聘主体的问题？
+## 招聘条件的问题？
+## 招聘程序的问题？
+## 招聘相关权利救济的问题？
+
+
 
 
