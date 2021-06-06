@@ -13,6 +13,7 @@ wflow_status()
 wflow_publish(c("analysis/index.Rmd", "analysis/about.Rmd", "analysis/license.Rmd"),
               "Publish the initial files for myproject")  # publish to local
 
+
 wflow_status()
 
 wflow_use_github("xiaomaohao")
@@ -49,4 +50,13 @@ wflow_publish(c("analysis/teacher_recruit.Rmd","analysis/index.Rmd","analysis/te
               "Add my 2021, 06, 01 analysis")
 wflow_git_push()
 
+
+wflow_publish(c("_workflowr.yml","analysis/_site.yml","analysis/index.Rmd","analysis/teacher_recruit.Rmd",
+                "analysis/teacher_salary.Rmd","analysis/employment_contract.Rmd"),
+              "Add my 2021, 06, 06 analysis")
+wflow_git_push()
+
+wflow_publish(c("analysis/_site.yml","analysis/salary10.Rmd"),
+              "Add my 2021, 06, 06 analysis second")
+wflow_git_push()
 
