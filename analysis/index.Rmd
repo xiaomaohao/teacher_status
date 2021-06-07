@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "欢迎来到我的个人网站！"
 site: workflowr::wflow_site
 output:
   workflowr::wflow_html:
@@ -8,22 +8,22 @@ editor_options:
   chunk_output_type: console
 ---
 
-# 欢迎到我的个人网站！
-
 <br>
 
-## 公众号文章
+### 公众号文章
 
 * [中小学教师的国标工资与10%增额](salary10.html)
 
-## 写作计划
+### 写作计划
 
 * [公立中小学教师工资纠纷争议](teacher_salary.html)
 * [公立中小学教师聘用合同争议](employment_contract.html)
 * [公立中小学教师公开招聘争议](teacher_recruit.html)
 
 
-## 开设课程
+### 开设课程
 
-Data science in Education [first class](https://xiaomaohao.github.io/pptgit/).
+* [数据科学与教育](https://xiaomaohao.github.io/pptgit/)
+* 教育法律实务
+* 教育政治学
 
