@@ -10,9 +10,10 @@ editor_options:
 
 <br>
 
-### 公众号文章
+### 工作论文
 
-* [中小学教师的国标工资与10%增额](salary10.html)
+* [中小学教师编制管理法制化研究](teacher_quotation.html)
+* [公立中小学教师人事关系法制化研究](Legal_status.html)
 
 ### 写作计划
 
@@ -20,10 +21,8 @@ editor_options:
 * [公立中小学教师聘用合同争议](employment_contract.html)
 * [公立中小学教师公开招聘争议](teacher_recruit.html)
 
+### 公众号文章
 
-### 开设课程
+* [中小学教师的国标工资与10%增额](salary10.html)
 
-* [数据科学与教育](https://xiaomaohao.github.io/pptgit/)
-* 教育法律实务
-* 教育政治学
 
