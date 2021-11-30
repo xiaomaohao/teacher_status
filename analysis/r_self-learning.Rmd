@@ -1,0 +1,82 @@
+---
+title: "r_learning_tutorial"
+author: "yy"
+date: "11/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#R基础
+
+[An Introduction to R](https://intro2r.com/)
+[R for Data Science](https://r4ds.had.co.nz/)
+[Introduction to Data Science](https://rafalab.github.io/dsbook/)
+
+#如何做表格的书
+
+
+
+#图形可视化
+[ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+系统介绍如何使用ggplot2做图
+
+[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+从美学的角度讲如何制作和设计图
+
+[R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
+以具体问题出发手把手教如何做图
+
+# Conmunication skill
+
+使用rmarkdown来做ppt,写文章，写书，做网站等
+
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+[blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
+
+
+# Version control
+
+[Happy Git and GitHub for the useR](https://happygitwithr.com/index.html)
+
+
+# learning statistics with R
+
+[Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/)
+
+
+[Statistical Inference via Data Science](https://moderndive.com/)
+
+
+[Learning statistics with R](https://learningstatisticswithr.com/book/)
+
+
+##
+machine learning
+
+## causal inference
+
+
+online courses
+
+[Statistics and R](https://online-learning.harvard.edu/course/statistics-and-r?delta=0)
+[Statistics with R Specialization](https://www.coursera.org/specializations/statistics#courses)
+
+专项分析：
+空间分析：
+[Geocomputation with R](https://geocompr.robinlovelace.net/)
+[Spatial Data Science with applications in R](https://keen-swartz-3146c4.netlify.app/)
+[Spatial Point Patterns: Methodology and Applications with R](http://book.spatstat.org/)
+[Introduction to Spatial Data Programming with R](http://132.72.155.230:3838/r/index.html)
+[Spatial Microsimulation with R](https://spatial-microsim-book.robinlovelace.net/)
+
+## 高级分析方法
+
+
+
+
