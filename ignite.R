@@ -60,5 +60,9 @@ wflow_publish(c("analysis/_site.yml","analysis/salary10.Rmd"),
               "Add my 2021, 06, 06 analysis second")
 wflow_git_push()
 
+wflow_publish(c("analysis/_site.yml","analysis/salary10.Rmd"),
+              "Add my 2021, 06, 06 analysis second")
+wflow_git_push()
+
 
 

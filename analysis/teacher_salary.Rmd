@@ -5,6 +5,7 @@ date: "6/2/2021"
 output: html_document
 ---
 
+中小学教师工资争议纠纷的类型与司法处理
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```

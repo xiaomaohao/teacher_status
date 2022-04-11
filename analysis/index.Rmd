@@ -12,18 +12,18 @@ editor_options:
 
 ### 工作论文
 
-* [中小学教师编制管理法制化研究](teacher_quotation.html)
-* [公立中小学教师人事关系法制化研究](Legal_status.html)
+-   [公立中小学教师人事关系法制化研究](Legal_status.html)
+-   [中小学教师编制管理法制化研究](teacher_quotation.html)
 
 ### 写作计划
 
-* [公立中小学教师工资纠纷争议](teacher_salary.html)
-* [公立中小学教师聘用合同争议](employment_contract.html)
-* [公立中小学教师公开招聘争议](teacher_recruit.html)
+-   [公立中小学教师工资纠纷争议](teacher_salary.html)
+-   [公立中小学教师聘用合同争议](employment_contract.html)
+-   [公立中小学教师公开招聘争议](teacher_recruit.html)
 
 ### 公众号文章
 
-* [中小学教师的国标工资与10%增额](salary10.html)
-* [关于中小学教师权益保护，《教师法》应当解决的10个问题](ten_vital.html)
-
-
+-   [中小学教师的国标工资与10%增额](salary10.html)
+-   [关于中小学教师权益保护，《教师法》应当解决的10个问题](ten_vital.html)
+-   ["县中塌陷"，是优秀教师走了，还是他们老了](teacher_turnover.html)
+-   [中学教师因’末位淘汰’被下调至乡小，可否起诉教育局？](case3_movement.html)
