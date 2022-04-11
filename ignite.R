@@ -10,7 +10,7 @@ wflow_build() # knit new r-markdown
 wflow_view()  # view the website without knit
 wflow_status()
 
-wflow_publish(c("analysis/index.Rmd", "analysis/about.Rmd", "analysis/license.Rmd"),
+wflow_publish(c("analysis/index.Rmd", "analysis/about.Rmd", "analysis/license.Rmd", "analysis/ten_vital.Rmd"),
               "Publish the initial files for myproject")  # publish to local
 
 
